@@ -224,3 +224,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+mermaid:
+    # Version of mermaid library
+    # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+    version: "11.6.0"

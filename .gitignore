@@ -25,3 +25,54 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+
+HELP.md
+target/
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### STS ###
+.DS_Store
+**/.flattened-pom.xml
+
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle
+vendle/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### mvn ###
+mvnw
+mvnw.cmd
+test
